@@ -23,7 +23,10 @@ Variables: C = center of the camera's viewpoint, X = x-axis, Y = y-axis
 If conditions:
 
 Cx - X < 0, Horizontal motor turns clockwise
+
 Cx - X > 0, Horizontal motor turns counter-clockwise
+
 Cy - Y < 0, Vertical motor turns counter-clockwise
+
 Cy - Y > 0, Vertical motor turns clockwise
 
